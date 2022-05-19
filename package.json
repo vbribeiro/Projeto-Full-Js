@@ -1,5 +1,5 @@
 {
-  "name": "Projeto-Full-Js",
+  "name": "icarros-full",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,17 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vbribeiro/Projeto-Full-Js.git"
+    "url": "git+https://github.com/mrdouglasmorais/icarros-full-js.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vbribeiro/Projeto-Full-Js/issues"
+    "url": "https://github.com/mrdouglasmorais/icarros-full-js/issues"
   },
-  "homepage": "https://github.com/vbribeiro/Projeto-Full-Js#readme",
+  "homepage": "https://github.com/mrdouglasmorais/icarros-full-js#readme",
   "dependencies": {
-    "@babel/runtime": "^7.17.9"
+    "@babel/runtime": "^7.17.9",
+    "axios": "^0.27.2"
   },
   "devDependencies": {
     "@babel/core": "^7.17.12",

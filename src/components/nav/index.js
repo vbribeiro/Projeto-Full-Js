@@ -1,4 +1,4 @@
-import Logo from '../../img/logo-icarros_01.png'
+import Logo from '../../img/logo-icarros_01.png';
 
 let Nav = `
     <nav class="navmenu">

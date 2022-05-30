@@ -1,101 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap");
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
 }
 
 body {
-    background: #0071CE;
-    font-family: 'Roboto', sans-serif;
+  background: #0071CE;
+  font-family: "Roboto", sans-serif;
 }
 
 .navmenu {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    background: #053399;
-    padding: 15px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: #0071CE;
+  padding: 15px 0;
 }
 
-.navmenu .navmenu-itens {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    width: 15%;
-}
-
-.navmenu .navmenu-itens a {
-    color: #fff;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 1rem;
-    text-decoration: none;
-}
-
-.navmenu .navmenu-itens a:hover {
-    color: #fd6320;
-}
-
-.logotipo {
-    width: 20%;
-}
-
-.contact-form {
-    background: #fff;
-    text-align: center;
-    width: 365px;
-    padding: 20px;
-    border-radius: 10px;
-    margin: auto;
-    position: relative;
-    top: 50%;
-    transform: translateY(80%);
-}
-
-.contact-form h1 {
-    margin-bottom: 15px;
-}
-
-.contact-form form {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    gap: 10px;
-}
-
-.contact-form form input {
-    padding: 3px;
-    border-radius: 7px;
-    border: 1px solid;
-}
-
-.contact-form form .btn {
-    padding: 5px 10px;
-    background: #0071CE;
-    color: #fff;
-}
-
-.text-home {
-    color: #fff;
-    text-align: center;
-    margin: auto;
-}
-
-.text-home .img-marcas {
-    width: 20%;
-    margin-top: 15px;
-}
-
-footer {
-    bottom: 0;
-    position: fixed;
-    background: #053399;
-    width: 100vw;
-    text-align: center;
-}
-
-footer p {
-    font-weight: bold;
-    color: #fff;
-    padding: 20px 0;
-}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap');
+@import "./variables.scss";
+
+* {
+    margin: $marginInit;
+    padding: $paddingInit;
+    box-sizing: $boxSizingInit;
+}
+
+body {
+    background: $colorBlueDark;
+    font-family: $fontDefault;
+}
+
+.navmenu {
+    display: $displayFlex;
+    align-items: $alignCenter;
+    justify-content: $justifySpaceA;
+    background: $colorBlueDark;
+    padding: $paddingNavmenu;
+}
